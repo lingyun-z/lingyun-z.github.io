@@ -1,1 +1,0 @@
-import{j as e}from"./index-rcaO-g0J.js";function i({label:s,title:t,align:c="center",titleClassName:n=""}){const r=c==="center"?"text-center":"text-left";return e.jsxs("div",{className:r,children:[e.jsx("div",{className:"star-divider"}),s&&e.jsx("p",{className:"section-label mb-3",children:s}),t&&e.jsx("h2",{className:`section-title ${n}`,children:t})]})}export{i as S};
